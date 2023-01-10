@@ -51,6 +51,7 @@ export const feedback = [
     name: "DadaSoko.com",
     title: "A global eCommerce marketplace structured for young women entrepreneurs.",
     img: fashion,
+    link: "https://ke.dadasoko.com/",
   },
   {
     id: "feedback-2",
@@ -59,6 +60,7 @@ export const feedback = [
     name: "MealSoko.com",
     title: "Order your desired meals from your favorite vendorks trhrough MealSoko.",
     img: meal,
+    link: "https://ke.dadasoko.com/",
   },
   {
     id: "feedback-3",
@@ -67,6 +69,7 @@ export const feedback = [
     name: "EarnSoko.com",
     title: "Earn for being an influencer in the SokoVerse where everyone is an influencer.",
     img: media,
+    link: "https://ke.dadasoko.com/",
   },
   {
     id: "feedback-4",
@@ -75,6 +78,7 @@ export const feedback = [
     name: "TicketSoko.com",
     title: "Buy your event tickets directly through the TicketSoko platform.",
     img: calendar,
+    link: "https://ke.dadasoko.com/",
   },
 ];
 
@@ -123,7 +127,7 @@ export const footerLinks = [
     links: [
       {
         name: "DadaSoko",
-        href: "https://ke.dadasoko.com/",
+        link: "https://ke.dadasoko.com/",
       },
       {
         name: "TicketSoko",
@@ -131,7 +135,7 @@ export const footerLinks = [
       },
       {
         name: "MealSoko",
-        link: "https://ke.dadasoko.com/",
+        link: "https://mealsoko.com/public/auth/login",
       },
       {
         name: "EarnSoko",
@@ -139,7 +143,7 @@ export const footerLinks = [
       },
       {
         name: "PaySoko",
-        link: "https://ke.dadasoko.com/",
+        link: "http://www.paysoko.com/",
       },
     ],
   },
