@@ -106,19 +106,19 @@ export const footerLinks = [
     links: [
       {
         name: "Home",
-        link: "https://www.hoobank.com/content/",
+        link: "http://sokoverse.com/#",
       },
       {
         name: "About",
-        link: "https://www.hoobank.com/how-it-works/",
+        link: "http://sokoverse.com/#",
       },
       {
         name: "Services",
-        link: "https://www.hoobank.com/create/",
+        link: "http://sokoverse.com/#",
       },
       {
         name: "Contact",
-        link: "https://www.hoobank.com/explore/",
+        link: "http://sokoverse.com/#",
       },
     ],
   },
