@@ -10,11 +10,11 @@ export const navLinks = [
     title: "About",
   },
   {
-    id: "features",
+    id: "clients",
     title: "Services",
   },
   {
-    id: "clients",
+    id: "features",
     title: "Contact",
   },
 ];
@@ -60,7 +60,7 @@ export const feedback = [
     name: "MealSoko.com",
     title: "Order your desired meals from your favorite vendorks trhrough MealSoko.",
     img: meal,
-    link: "https://ke.dadasoko.com/",
+    link: "https://mealsoko.com/public/auth/login",
   },
   {
     id: "feedback-3",
@@ -79,6 +79,15 @@ export const feedback = [
     title: "Buy your event tickets directly through the TicketSoko platform.",
     img: calendar,
     link: "https://ke.dadasoko.com/",
+  },
+  {
+    id: "feedback-5",
+    content:
+      "Discover & Explore our Payment Processing Platform PaySoko.",
+    name: "PaySoko.com",
+    title: "Put your business online or connect your existing eCommerce site.",
+    img: calendar,
+    link: "http://www.paysoko.com/",
   },
 ];
 
